@@ -33,3 +33,9 @@ Hi, I'm [Puneet Jindal], a Golang Developer 🚀, Cloud and DevOps Enthusiast �
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=puneetjindal1997&count_private=true&show_icons=true&theme=gotham" alt="puneetjindal1997" />
