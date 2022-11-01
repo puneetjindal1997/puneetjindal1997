@@ -16,6 +16,7 @@ Hi, I'm [Puneet Jindal], a Golang Developer ðŸš€, Cloud and DevOps Enthusiast ðŸ
 
 **Technologies**  
 
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
